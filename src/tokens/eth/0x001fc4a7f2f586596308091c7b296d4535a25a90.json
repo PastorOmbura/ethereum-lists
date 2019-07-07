@@ -1,31 +1,31 @@
 {
-  "symbol": "HUBS",
-  "name": "Hubscop",
+  "symbol": "SCS",
+  "name": "Salemcash",
   "type": "ERC20",
-  "address": "0x001fc4a7f2f586596308091c7b296d4535a25a90",
+  "address": "0xd9AF74B27919D8b96C2D0FA3e26B20463dbfa497",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://hubscop.com",
+  "website": "http://salemcash.org/",
   "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1561836991/HUBS.png",
+    "src": "https://github.com/PastorOmbura/SCS/blob/master/SalemCash_new_logo.gif",
     "width": "256",
     "height": "256",
     "ipfs_hash": ""
   },
-  "support": { "email": "divineproxy@gmail.com", "url": "https://hubscop.com" },
+  "support": { "email": "alex.ombura@gmail.com", "url": "http://salemcash.org/contact" },
   "social": {
-    "blog": "",
+    "blog": "https://jscikenya.blogspot.com/",
     "chat": "",
-    "facebook": "https://facebook.com/Hubscop",
+    "facebook": "https://www.facebook.com/alex.oumaombura",
     "forum": "",
-    "github": "https://github.com/hubscop",
+    "github": "https://github.com/PastorOmbura/SalemCash",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "linkedin": "https://www.linkedin.com/in/alex-ouma-ombura-52846b46/",
+    "reddit": "https://www.reddit.com/user/PastorOmbura/",
     "slack": "",
-    "telegram": "https://t.me/Hubscop",
-    "twitter": "",
-    "youtube": "https://www.youtube.com/channel/UC1Zk2B_oyOywGEofu7zUF2Q"
+    "telegram": "https://t.me/ombura2000",
+    "twitter": "https://twitter.com/pastorombura",
+    "youtube": "https://www.youtube.com/watch?v=78lY6VbyBYc&list=PLsWdZ9pF6l2-Y5ggkFaQGu9Wngh9YWtF5"
   }
 }
